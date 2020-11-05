@@ -4,7 +4,7 @@
 <%
     ArrayList <BBodegas> listaBodegas= (ArrayList<BBodegas>) request.getAttribute("listaBodegas");
 
-        //f
+        //f 2.0
 %>
 
 <html>
